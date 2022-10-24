@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @alenpeni
-- � I’m interested in ... networking and software development (am a newbie to both)
-- � I’m currently learning ... python and trying to get familiar with kali linux
+Null
